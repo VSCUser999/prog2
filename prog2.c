@@ -1,5 +1,6 @@
 #include <stdio.h>
 
+
 int main (void){
     int v1;
     printf("是否有房產?(0:No, 1:Yes)");
